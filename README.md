@@ -50,7 +50,7 @@ Flatt.sets(user, {
     "holidays":false
   }
 }
-
+```
 ## Get property
 ```javascript
 Flatt.get(user, 'User.Department.comment');
