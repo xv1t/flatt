@@ -1,5 +1,6 @@
 # Flatt.js
 Flatt - JavaScript util for flatten and unflatten object with properties
+Support any level of depth
 ## Add/set flatten property
 ```javascript
 
