@@ -47,7 +47,7 @@ Flatt.sets(user, {
     }
  },
   "Chief":{
-  "holidays":false
+    "holidays":false
   }
 }
 
