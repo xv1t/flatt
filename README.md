@@ -1,6 +1,6 @@
 # Flatt.js
 Flatt - JavaScript util for flatten and unflatten object with properties
-## Add flatten property
+## Add/set flatten property
 ```javascript
 
 user = {
