@@ -73,3 +73,6 @@ Flatt.is(user);
   'User.name':"Oriokko"
 }
 ```
+
+--------
+Thanx to gist: https://gist.github.com/penguinboy/762197
